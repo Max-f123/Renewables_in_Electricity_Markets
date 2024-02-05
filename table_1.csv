@@ -1,4 +1,4 @@
-Unit #,Node,Pimax (MW),Pimin (MW),Ri+ (MW),Ri- (MW),RiU (MW/h),RiD (MW/h),UT (h),DT (h)
+Unit #,Node,Pmax (MW),Pmin (MW),R+ (MW),R- (MW),RU (MW/h),RD (MW/h),UT (h),DT (h)
 1,1,152,30.4,40,40,120,120,8,4
 2,2,152,30.4,40,40,120,120,8,4
 3,7,350,75.0,70,70,350,350,8,8

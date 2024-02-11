@@ -19,7 +19,7 @@ def delete_rows_and_columns(input_file, output_file, rows_to_delete, columns_to_
         writer.writerows(data)
 
 # Example usage
-input_file = 'wind_scenario_windgenerator1.csv'
+input_file = 'data\wind_scenario_windgenerator1.csv'
 output_file = 'wind_scenario_windgeneratorfinal.csv'
 rows_to_delete = [26, 44]  # Example rows to delete
 columns_to_delete = [8, 101]  # Example columns to delete

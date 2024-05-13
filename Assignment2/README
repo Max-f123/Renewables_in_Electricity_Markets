@@ -1,0 +1,12 @@
+# Assignment 2
+
+## Description
+This folder contains the code and resources related to the assignment on renewables in electricity markets.
+
+## Contents
+- [Data](./data): Contains the data files used in the assignment. In that folder you also find the data handling and scenario generation.
+- [Task1](./Task1): In that folder you can find all the code, plots and result files regarding Task1. Each Task has its own model.
+- [Task2](./Task2): In that folder you can find all the code, plots and result files regarding Task2. For Task 2 all the code is provided in one jupyter notebook. Each task is divided with markdown cells.
+
+## Contact
+For any questions or feedback, please contact [Jan Leisbrock](mailto:s232812@student.dtu.dk).
